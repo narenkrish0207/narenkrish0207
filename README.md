@@ -9,13 +9,13 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 **BE Graduate (2023)** with a strong passion for **Data Science & Analytics**  
-- 💻 Hands-on with **Python, SQL, Pandas, NumPy, Scikit-learn**, and visualization tools  
-- 📊 Worked on impactful projects like  
+- 🎓 **BE Graduate (2023)** passionate about **Data Science & Analytics**  
+- 💻 Hands-on with **Python, SQL, Pandas, NumPy, Scikit-learn**, and dashboards  
+- 📊 Built projects like  
   👉 *PhonePe Transaction Analytics*, *Brain Tumor Detection*, *Luxury Housing Market Insights*  
-- 🌱 Currently diving deeper into **Machine Learning**, **Model Deployment (Flask/Streamlit)**, and **Data Preprocessing**  
-- 🤝 Open to teaming up on **ML models**, **analytics dashboards**, and **open-source contributions**  
-- 🎯 **Aim:** Build intelligent, data-driven solutions that solve real problems  
+- 🌱 Learning **ML algorithms**, **Model Deployment**, and **Data Engineering**  
+- 🤝 Love collaborating on **data, ML, dashboards & open-source**  
+- 🎯 **Goal:** Build valuable, real-world data-driven solutions  
 
 ---
 
@@ -35,14 +35,26 @@
 
 ---
 
+### 🎬 Media & Editing Tools  
+Here are the creative tools I use for editing & design:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+</p>
+
+---
+
 ### 🧩 Featured Projects  
-A few projects I'm proud of 💻  
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🧠 **Brain Tumor Classification** | Built a CNN model to classify MRI images | Python, TensorFlow/Keras, Streamlit |
-| 💳 **PhonePe Transaction Insights** | Dashboard analyzing digital transaction patterns | SQL, Python, Power BI |
-| 🏠 **Luxury Housing Sales – Bengaluru** | Price prediction & market trend visualization | Pandas, Matplotlib, Power BI |
+| 🧠 **Brain Tumor Classification** | CNN-based MRI tumor prediction system | Python, TensorFlow/Keras, Streamlit |
+| 💳 **PhonePe Transaction Insights** | Interactive dashboard for digital transaction patterns | SQL, Python, Power BI |
+| 🏠 **Luxury Housing Sales – Bengaluru** | Market analysis & price prediction | Pandas, Matplotlib, Power BI |
 
 ---
 
@@ -71,9 +83,9 @@ A few projects I'm proud of 💻
 ---
 
 ### 🏆 Highlights & Achievements  
-- 🥇 Built multiple **end-to-end ML and data analytics** pipelines  
-- 🌟 Continuously improving skills in **AI**, **Data Engineering**, and **Visual Analytics**  
-- 📚 Actively exploring open-source and contributing to reproducible workflows  
+- 🥇 Created complete ML & analytics pipelines  
+- 🌟 Always exploring **AI, ML, Visualization & Data Engineering**  
+- 📚 Contributing and learning through open-source  
 
 ---
 
