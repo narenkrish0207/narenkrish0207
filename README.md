@@ -1,25 +1,25 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#9b5de5;">Naren krish</span>!</h1>
-<h3 align="center">💡 Data Science Learner | 🧠 Machine Learning Enthusiast | 🐍 Python Developer</h3>
+<h1 align="center">👋 Hello! I'm <span style="color:#9b5de5;">Naren Krish</span></h1>
+<h3 align="center">💡 Aspiring Data Scientist | 🧠 ML Learner | 🐍 Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9b5de5&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Data+Science+%7C+Machine+Learning+%7C+SQL;Exploring+Insights+from+Data+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9b5de5&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;Data+Science+%7C+Machine+Learning+%7C+SQL;Turning+Data+into+Insights+✨" />
 </p>
 
 ---
 
 ### 🚀 About Me  
-- 🎓 **BE Graduate (2023)** passionate about **Data Science & Analytics**  
-- 💻 Skilled in **Python, SQL, Pandas, NumPy, Scikit-learn**, and **Data Visualization**  
-- 📊 Hands-on experience with projects like  
-  👉 *PhonePe Transaction Insights*, *Brain Tumor Classification*, and *Housing Sales Analysis*  
-- 🌱 Currently exploring **Machine Learning**, **Model Deployment (Streamlit, Flask)**, and **Feature Engineering**  
-- 🤝 Open to collaborating on **data-driven**, **ML-based**, and **open-source** projects  
-- 🎯 **Goal:** To become a data-driven problem solver and contribute to impactful analytics solutions  
+- 🎓 **BE Graduate (2023)** with a strong passion for **Data Science & Analytics**  
+- 💻 Hands-on with **Python, SQL, Pandas, NumPy, Scikit-learn**, and visualization tools  
+- 📊 Worked on impactful projects like  
+  👉 *PhonePe Transaction Analytics*, *Brain Tumor Detection*, *Luxury Housing Market Insights*  
+- 🌱 Currently diving deeper into **Machine Learning**, **Model Deployment (Flask/Streamlit)**, and **Data Preprocessing**  
+- 🤝 Open to teaming up on **ML models**, **analytics dashboards**, and **open-source contributions**  
+- 🎯 **Aim:** Build intelligent, data-driven solutions that solve real problems  
 
 ---
 
-### 🧠 Skills & Tools  
+### 🧠 Skills & Toolkit  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sklearn,git,github,mysql,pandas,numpy,streamlit,vscode,tableau,powerbi" />
@@ -36,13 +36,13 @@
 ---
 
 ### 🧩 Featured Projects  
-Here are some of my favorite projects 💻  
+A few projects I'm proud of 💻  
 
-| Project | Description | Tools Used |
-|----------|--------------|-------------|
-| 🧠 **Brain Tumor Classification** | Classified MRI images using CNN & TensorFlow | Python, Keras, Streamlit |
-| 💳 **PhonePe Transaction Insights** | Visual analytics dashboard for transaction trends | Python, SQL, Power BI |
-| 🏠 **Luxury Housing Sales - Bengaluru** | Price prediction & trend analysis | Pandas, Matplotlib, Power BI |
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🧠 **Brain Tumor Classification** | Built a CNN model to classify MRI images | Python, TensorFlow/Keras, Streamlit |
+| 💳 **PhonePe Transaction Insights** | Dashboard analyzing digital transaction patterns | SQL, Python, Power BI |
+| 🏠 **Luxury Housing Sales – Bengaluru** | Price prediction & market trend visualization | Pandas, Matplotlib, Power BI |
 
 ---
 
@@ -70,15 +70,13 @@ Here are some of my favorite projects 💻
 
 ---
 
-### 🏆 Achievements & Highlights
-- 🥇 Built multiple end-to-end **ML & Analytics** projects  
-- 🌟 Active learner of **Data Science**, **AI**, and **Visualization** tools  
-- 📚 Contributing to open-source & improving reproducibility in analytics  
+### 🏆 Highlights & Achievements  
+- 🥇 Built multiple **end-to-end ML and data analytics** pipelines  
+- 🌟 Continuously improving skills in **AI**, **Data Engineering**, and **Visual Analytics**  
+- 📚 Actively exploring open-source and contributing to reproducible workflows  
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9b5de5&height=120&section=footer"/>
 </p>
-
-
